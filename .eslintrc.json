@@ -31,6 +31,7 @@
     "no-use-before-define": "off",
     "no-unused-expressions": "off",
     "prettier/prettier": "error",
+    "import/no-duplicates": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "import/prefer-default-export": "off",
     "import/extensions": [
